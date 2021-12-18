@@ -4,7 +4,7 @@ Como ya vieron en el titulo vamos a crear una pequeña aplicación que nos permi
 
 ## activity_main.xml
 
-En nuestro activity_main.xml agregaremos un conjunto de linearLayout donde en cada uno le agregaremos un editText en total agregaremos 3 editText(correo, asunto, mensaje) y un botón quedando de la siguiente manera.
+En nuestro activity_main.xml agregaremos un conjunto de linearLayout donde en cada uno le agregaremos un editText, en total agregaremos 3 editText(correo, asunto, mensaje) y un botón quedando de la siguiente manera.
 
 ```
 
