@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MandarCorreo</string>
+    <string name="correo_ejemplo">Correo:</string>
+    <string name="Asunto">Asunto</string>
+    <string name="Mensaje">Deja un mensaje</string>
+    <string name="btnEnviar">Enviar</string>
+</resources>
